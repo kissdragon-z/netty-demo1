@@ -1,4 +1,4 @@
-# rpc-netty-demo
+#first netty rpc
 
 
-启动 ServerBootstrap ，然后启动 ClientBootstrap，将出现结果。
+启动 ServerBootstrap ，然后启动 ClientBootstrap，
